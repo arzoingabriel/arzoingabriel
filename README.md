@@ -1,8 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:10B981&height=160&section=header&text=Gabriel%20ARZOIN&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Paris&descSize=16&descColor=c9d1d9&descAlignY=55)
 
-Freelance developer & founder of **ARZOIN**, a web development studio.  
-I build performant web apps — from landing pages to complex platforms — focused on clean code and real business impact.
-
 ---
 
 ### 🛠 Stack
